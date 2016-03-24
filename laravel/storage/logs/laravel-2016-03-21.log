@@ -1,0 +1,556 @@
+[2016-03-21 00:44:06] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:08] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:08] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:09] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:09] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:10] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:11] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:11] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 00:44:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 01:05:35] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Can't use function return value in write context' in D:\phpStudy\WWW\laravel\resources\views\index\index.php:115
+Stack trace:
+#0 {main}  
+[2016-03-21 06:21:15] local.ERROR: exception 'ErrorException' with message 'Undefined variable: code_url' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:173
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170(173): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', 'D:\\phpStudy\\WWW...', 173, Array)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(39): include('D:\\phpStudy\\WWW...')
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#6 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#7 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#9 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#10 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#17 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#18 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#33 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#34 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#35 {main}
+
+Next exception 'ErrorException' with message 'Undefined variable: code_url (View: D:\phpStudy\WWW\laravel\resources\views\index\index.blade.php)' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:173
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(43): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(ErrorException), 1)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#6 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#9 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#10 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#11 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#12 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#18 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#33 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#34 {main}  
+[2016-03-21 06:22:25] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:14
+Stack trace:
+#0 {main}  
+[2016-03-21 06:23:34] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:14
+Stack trace:
+#0 {main}  
+[2016-03-21 06:23:52] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:14
+Stack trace:
+#0 {main}  
+[2016-03-21 06:24:06] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:14
+Stack trace:
+#0 {main}  
+[2016-03-21 06:24:48] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:174
+Stack trace:
+#0 {main}  
+[2016-03-21 06:24:55] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:174
+Stack trace:
+#0 {main}  
+[2016-03-21 06:25:26] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:174
+Stack trace:
+#0 {main}  
+[2016-03-21 06:32:50] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'App\Http\Controllers\SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:14
+Stack trace:
+#0 {main}  
+[2016-03-21 06:33:21] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'SaeTOAuthV2' not found' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:14
+Stack trace:
+#0 {main}  
+[2016-03-21 06:53:51] local.ERROR: exception 'ErrorException' with message 'include_once(config.php): failed to open stream: No such file or directory' in D:\phpStudy\WWW\laravel\resources\views\index\callback.php:4
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\resources\views\index\callback.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include_once(co...', 'D:\\phpStudy\\WWW...', 4, Array)
+#1 D:\phpStudy\WWW\laravel\resources\views\index\callback.php(4): include_once()
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(39): include('D:\\phpStudy\\WWW...')
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(16): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\PhpEngine->get('D:\\phpStudy\\WWW...', Array)
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#6 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#7 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#8 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#9 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#10 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#11 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#12 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#13 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#17 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#18 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#19 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#33 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#34 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#35 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#36 {main}  
+[2016-03-21 07:05:13] local.ERROR: exception 'ErrorException' with message 'Undefined variable: _SESSION' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170(2): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', 'D:\\phpStudy\\WWW...', 2, Array)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(39): include('D:\\phpStudy\\WWW...')
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#6 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#7 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#9 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#10 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#17 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#18 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#33 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#34 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#35 {main}
+
+Next exception 'ErrorException' with message 'Undefined variable: _SESSION (View: D:\phpStudy\WWW\laravel\resources\views\index\index.blade.php)' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(43): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(ErrorException), 1)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#6 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#9 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#10 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#11 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#12 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#18 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#33 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#34 {main}  
+[2016-03-21 07:05:49] local.ERROR: exception 'ErrorException' with message 'Undefined variable: _SESSION' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170(2): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', 'D:\\phpStudy\\WWW...', 2, Array)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(39): include('D:\\phpStudy\\WWW...')
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#6 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#7 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#9 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#10 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#17 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#18 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#33 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#34 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#35 {main}
+
+Next exception 'ErrorException' with message 'Undefined variable: _SESSION (View: D:\phpStudy\WWW\laravel\resources\views\index\index.blade.php)' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(43): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(ErrorException), 1)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#6 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#9 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#10 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#11 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#12 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#18 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#33 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#34 {main}  
+[2016-03-21 07:06:10] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '['' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 {main}  
+[2016-03-21 07:07:30] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '('' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 {main}  
+[2016-03-21 07:07:53] local.ERROR: exception 'ErrorException' with message 'Undefined variable: _SESSION' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170(2): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', 'D:\\phpStudy\\WWW...', 2, Array)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(39): include('D:\\phpStudy\\WWW...')
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#6 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#7 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#9 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#10 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#12 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#17 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#18 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#33 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#34 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#35 {main}
+
+Next exception 'ErrorException' with message 'Undefined variable: _SESSION (View: D:\phpStudy\WWW\laravel\resources\views\index\index.blade.php)' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:2
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(43): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(ErrorException), 1)
+#1 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Engines\CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\\phpStudy\\WWW...', Array)
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(136): Illuminate\View\Engines\CompilerEngine->get('D:\\phpStudy\\WWW...', Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(104): Illuminate\View\View->getContents()
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\View.php(78): Illuminate\View\View->renderContents()
+#5 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Http\Response.php(44): Illuminate\View\View->render()
+#6 D:\phpStudy\WWW\laravel\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(202): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1188): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(692): Illuminate\Routing\Router->prepareResponse(Object(Illuminate\Http\Request), Object(Illuminate\View\View))
+#9 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#10 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#11 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#12 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#14 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#16 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#17 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#18 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#33 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#34 {main}  
+[2016-03-21 07:14:00] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'else' (T_ELSE)' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:147
+Stack trace:
+#0 {main}  
+[2016-03-21 07:31:42] local.ERROR: exception 'ErrorException' with message 'Array to string conversion' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:26
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php(26): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Array to string...', 'D:\\phpStudy\\WWW...', 26, Array)
+#1 [internal function]: App\Http\Controllers\IndexController->index()
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array(Array, Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('index', Array)
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\IndexController), Object(Illuminate\Routing\Route), 'index')
+#5 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#6 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#7 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#9 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#10 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\IndexController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'index')
+#11 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Route.php(198): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'index')
+#12 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Route.php(131): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(691): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#14 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#16 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#17 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#18 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#22 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#36 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#37 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#38 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#39 {main}  
+[2016-03-21 07:37:20] local.ERROR: exception 'ErrorException' with message 'Undefined variable: uid' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:27
+Stack trace:
+#0 D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php(27): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', 'D:\\phpStudy\\WWW...', 27, Array)
+#1 [internal function]: App\Http\Controllers\IndexController->index()
+#2 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(246): call_user_func_array(Array, Array)
+#3 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('index', Array)
+#4 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(107): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\IndexController), Object(Illuminate\Routing\Route), 'index')
+#5 [internal function]: Illuminate\Routing\ControllerDispatcher->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#6 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#7 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#8 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#9 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(108): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#10 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(67): Illuminate\Routing\ControllerDispatcher->callWithinStack(Object(App\Http\Controllers\IndexController), Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'index')
+#11 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Route.php(198): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'App\\Http\\Contro...', 'index')
+#12 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Route.php(131): Illuminate\Routing\Route->runWithCustomDispatcher(Object(Illuminate\Http\Request))
+#13 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(691): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#14 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#15 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#16 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#17 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#18 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(693): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#19 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(660): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#20 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(618): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#21 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(210): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#22 [internal function]: Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#23 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(141): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#24 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\View\Middleware\ShareErrorsFromSession.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware\StartSession.php(61): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse.php(36): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Middleware\EncryptCookies.php(40): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode.php(42): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(125): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 [internal function]: Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(101): call_user_func(Object(Closure), Object(Illuminate\Http\Request))
+#36 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#37 D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(84): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#38 D:\phpStudy\WWW\laravel\public\index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#39 {main}  
+[2016-03-21 08:15:21] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Laravel\Socialite\Facades\Socialite::isDeferred()' in D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:120
+Stack trace:
+#0 {main}  
+[2016-03-21 08:17:01] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Laravel\Socialite\Facades\Socialite::isDeferred()' in D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:120
+Stack trace:
+#0 {main}  
+[2016-03-21 08:18:40] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Laravel\Socialite\Facades\Socialite::isDeferred()' in D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:120
+Stack trace:
+#0 {main}  
+[2016-03-21 08:18:42] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Laravel\Socialite\Facades\Socialite::isDeferred()' in D:\phpStudy\WWW\laravel\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:120
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:00] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\public\libweibo-master\saetv2.ex.class.php:426
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:00] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:22
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:00] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:22
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:01] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\public\libweibo-master\saetv2.ex.class.php:426
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:01] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:22
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:01] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:22
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:01] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:22
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:01] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\app\Http\Controllers\IndexController.php:22
+Stack trace:
+#0 {main}  
+[2016-03-21 08:25:03] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in D:\phpStudy\WWW\laravel\public\libweibo-master\saetv2.ex.class.php:426
+Stack trace:
+#0 {main}  
+[2016-03-21 11:00:17] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '<'' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:148
+Stack trace:
+#0 {main}  
+[2016-03-21 11:00:49] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '<'' in D:\phpStudy\WWW\laravel\storage\framework\views\85c2a0c21183fab16b121198a6c1b170:148
+Stack trace:
+#0 {main}  
